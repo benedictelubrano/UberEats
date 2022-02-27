@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+@import url("components/container.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/flex.css");
+
+body { 
+
+font-family: 'Poppins', sans-serif;
+font-size: 18px;
+margin: 0px;
+}
+
+h1 {font-family: 'Poppins', sans-serif; font-weight: bolder; font-size: 40px;}
+h2 {font-size: 20px ;}
+h3 {font-size: 12px; text-decoration: underline;}
+h4 {font-size: 30px; font-weight: 900;}
+h5 , h6 {font-size: 15px; color: darkgray; width: 40px; padding: 30px;}
+
+
+.list-inline2 {list-style: none; padding-left: 0px; margin: 0;}
+.list-inline2 li {display: inline-block; padding: 12px;}
+.list-inline2 {font-size: 20px}
+
+#carte {padding-left: 20px;}
+
+#marg {margin-left: 30px;}
+
+.padding2 {padding-left: 20px; font-size: 25px; padding-bottom: 5px;}
+
+.list-inline3 {padding: 20px; display: flex; justify-content: space-around; align-items: center; line-height: 35.8px;}
+
+.list-inline3 {list-style: none; line-height: 1,8px;}
+
+
+
+.follow {list-style: none;}
+.follow li{display: inline-block;
+				padding: 10px;}
+.follow i{font-size: 40px; background-color: green;
+				color: white;
+				padding: 15px 20px;
+				margin-left: 60px ;
+				border-radius: 40px;}
+
+.follow {background-color: black; color: white; padding-top: 5px;}
+
+ul {margin: 0px; padding-bottom: 20px;}

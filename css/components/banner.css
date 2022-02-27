@@ -1,0 +1,7 @@
+.banner {background-image: url(../../images/uberwagon.png); 
+	background-size: cover;
+	background-position: center;
+	padding: 150px 15px;}
+
+.banner #btn1 {color: gray;}
+
